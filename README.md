@@ -1,1 +1,3 @@
 # Final_OOP_Project
+Project Description:
+This project aims to develop a game called Blackjack using Java Swing to create a graphical user interface (GUI) that simulates the real-life card game. The goal is to provide an interactive and visually appealing experience where players can compete against a computer-controlled dealer. In Blackjack, the objective is to obtain a hand value higher than the dealer’s without exceeding a total of 21. The application will implement standard Blackjack rules, including card dealing, hit, stand, and score evaluation, offering users a functional and engaging gameplay experience.
